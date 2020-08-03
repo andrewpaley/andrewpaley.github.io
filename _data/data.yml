@@ -3,24 +3,23 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Andrew Paley
+    tagline: PhD Candidate / Software Engineer / UX Designer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: andrewpaley@u.northwestern.edu
+    website: www.andrewpaley.dev #do not add http://
+    linkedin: andrewpaley
+    github: andrewpaley
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@andrewpaley'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,162 +28,127 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+    # interests:
+    #   - item: Climbing
+    #     link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a researcher, designer, engineer, journalist and musician interested in the intersection between AI, human-centered design, the reinvention of information access, and social progress as applied to a variety of spaces, including education, politics, law and healthcare. I also explore various approaches to human-machine collaboration in pursuit of generative art.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Computer Science
+      university: McCormick, Northwestern University
+      time: 2018 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Currently a PhD Candidate in Prof. Kristian Hammond’s C3 Lab, with a research focus on the reinvention of the human-data interface through the synthesis of various modes of machine learning and symbolic representation for natural language processing, intent-driven data analysis, rich conversational system design, and mixed-modality response generation. Research project work includes:
+          - Northwestern Open Access to Court Records Initiative: Leading the design and development of the SCALES platform, a core component of an NSF-backed joint initiative involving computer and data scientists, legal scholars, journalists and policy experts aimed at building an "AI powered data platform that makes the details of the federal judiciary and insights into how it works available and accessible to every single person." More details here. The core platform itself is being architected such that it can be leveraged in other domains and incorporate a wide variety of datasets.
+          - Mim: Architecting and co-developing a rich conversational system aimed at question-answering by a process of question decomposition, sub-answer collection (culling candidate answers from a host of corpora, such as relevant APIs, open-source knowledge graphs, and encyclopedia articles) and evaluation, answer recombination (with relevant analysis), and response generation.
+          - COVID Resource Map: Led the initial design and development and now collaborating on the expansion of a set of data acquisition pipelines for the collection, collation, and aggregation of various datasets related to the COVID-19 pandemic, including PPE resource shortages and surpluses at a per-hospital level, hospital bed availability, reported cases, reported deaths, unemployment data, proxies for consumer behavior, and a variety of others. Currently, a subset of the aggregated data is available for exploration via an interactive map at covid-resource-map.com.
+          - The Advisor: Co-developing a conversational agent aimed at meaningful interactions with students around internships, job opportunities, class selections, and events. The system develops a profile of each individual through their searches and selections, aiding with suggestions and guidance as new opportunities or classes become available or the system discovers near-perfect matches that meet most of the student’s interests and criteria.
+          - Pixie: Designed and developed a platform for the exploration of the latent space of GANs, as well as the creation of "human directed" music visualizations culled from those explorations. Currently pursuing a roadmap of feature additions.
+
+    - degree: Masters of Science in Journalism
+      university: Medill, Northwestern University
+      time: 2009 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Earned an MSJ on a Knight Foundation scholarship aimed at bringing students with design and development skills and an interest or background in journalism to the Medill graduate program. While at Medill, graduate work included development of the American Visualizer, an app aimed at making census data accessible and useful to journalists through dynamic visualization; analysis of the media environment and impacts on the healthcare debate during 2009; and a FOIA-based research project associated with piecing together a timeline of events surrounding United 93 on 9/11.
+
+    - degree: BA in Journalism and Media Studies
+      university: St. Michael's College
+      time: 2002 - 2006
+      details: |
+        While earning a BA, designed, built and maintained the first online student publication and hosted a weekly radio show on the college station.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Director of Product Design
+      time: 2016 - 2018
+      company: Narrative Science, Chicago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Led a team focusing on the conceptual, architectural and UX design of a next-generation Natural Language Generation platform based on ontological modeling, data analytics and additional concepts leading to a host of awarded or pending patents (noted below).
+
+    - role: Lead Product Designer
+      time: 2014 - 2016
+      company: Narrative Science, Chicago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Led the design of an end-to-end platform for fully configurable NLG, inclusive of data ingestion and analysis, chart design and rendering, document creation and styling, and delivery mechanisms for integration with a host of external platforms.
+
+    - role: Software Engineer
+      time: 2011 - 2014
+      company: Narrative Science, Chicago
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Co-defined and developed key components of a fully configurable, domain independent natural language generation system.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+#
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+#
+# skills:
+#     title: Skills &amp; Proficiency
+#
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
+#
+#       - name: Javascript & jQuery
+#         level: 98%
+#
+#       - name: Angular
+#         level: 98%
+#
+#       - name: HTML5 & CSS
+#         level: 95%
+#
+#       - name: Ruby on Rails
+#         level: 85%
+#
+#       - name: Sketch & Photoshop
+#         level: 60%
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
