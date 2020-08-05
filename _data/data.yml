@@ -103,16 +103,13 @@ experiences:
       details: |
         Primary songwriter, lead vocalist, and producer for international touring band with four albums and two EPs released to date, as well as a solo artist with two albums. Songs have been aired on radio and music programming internationally, and have appeared in various films and television shows. Performed in roughly 30 countries to date, including Japan, Brazil and more than 25 countries in Europe, including Russia, as well as 48 US states.
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Patents
+    intro: >
+      Components of my work at Narrative Science ended up in a series of patents, some of which are still pending. The issued patents follow.
+    assignments:
+      - title: Paley, et al. ​Applied artificial intelligence technology for ontology building to support natural language generation (NLG) using composable communication goals.​ U.S. Patent No. 10,719,542. July 21, 2020.
+        tagline: asdf
 #
 #       - title: DevStudio
 #         link: "#"
