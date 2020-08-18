@@ -90,6 +90,12 @@ p {
             &:last-child {
                 margin-bottom: 0;
             }
+            &.cv-sidebar {
+              .fa-file {
+                margin-left: 2px;
+                margin-right: 8px;
+              }
+            }
         }
     }
     .container-block {
