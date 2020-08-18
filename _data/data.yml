@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: paley@u.northwestern.edu
-    website: www.andrewpaley.dev #do not add http://
+    website: andrewpaley.dev #do not add http://
     linkedin: andrewpaley
     github: andrewpaley
     telegram: # add your nickname without '@' sign
@@ -31,6 +31,8 @@ sidebar:
     # interests:
     #   - item: Climbing
     #     link:
+
+    cv: AndrewPaley-CV.pdf
 
 career-profile:
     title: Profile
@@ -115,5 +117,5 @@ projects:
       - title: Birnbaum, et al. ​Automatic generation of narratives from data using communication goals and narrative analytics. (Patent Set) U.S. Patent No. 9,977,773. May 22, 2018; U.S. Patent No. 9,720,899. August 1, 2017; U.S. Patent No. 9,697,492. July 4, 2017.
       - title: Hammond, et al. ​Automatic generation of narratives from data using communication goals and narrative analytics​. U.S. Patent No. 9,576,009. February 21, 2017.
 
-footer:
-    More details available via full CV <a href="/assets/images/AndrewPaley-CV.pdf" target="_blank">here</a>
+# footer:
+#     More details available via full CV <a href="/assets/images/AndrewPaley-CV.pdf" target="_blank">here</a>
