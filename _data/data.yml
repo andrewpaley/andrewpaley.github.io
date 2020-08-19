@@ -105,8 +105,9 @@ experiences:
       details: |
         Primary songwriter, lead vocalist, and producer for internationally touring band as well as a solo artist with multiple albums and collaborations. Played shows in 48 US States as well as roughly 30 countries to date, including Japan, Brazil, Russia, and much of Europe.
 
-projects:
+patents:
     title: Patents
+    intro: My work at Narrative Science led to a series of patents in the space of applied AI, some of which are still pending
     assignments:
       - title: Paley, et al. ​Applied artificial intelligence technology for ontology building to support natural language generation (NLG) using composable communication goals. U.S. Patent No. 10,719,542. July 21, 2020.
       - title: Paley, et al. Applied artificial intelligence technology for interactive story editing to support natural language generation (NLG)​. U.S. Patent No. 10,713,442. July 14, 2020.
@@ -116,6 +117,18 @@ projects:
       - title: Paley, et al. Method and system for configuring automatic generation of narratives from data​. U.S. Patent No. 10,185,477. January 22, 2019.
       - title: Birnbaum, et al. ​Automatic generation of narratives from data using communication goals and narrative analytics. (Patent Set) U.S. Patent No. 9,977,773. May 22, 2018; U.S. Patent No. 9,720,899. August 1, 2017; U.S. Patent No. 9,697,492. July 4, 2017.
       - title: Hammond, et al. ​Automatic generation of narratives from data using communication goals and narrative analytics​. U.S. Patent No. 9,576,009. February 21, 2017.
+
+publications:
+    title: Selected Publications/Presentations
+    assignments:
+      - title: Innovation Leaders Panel, Merck Innovation Summit, Panel Member, October 2019
+      - title: Public Forum: Artificial Intelligence, Health, & Society at the Equity, Diversity, and Data Science in Genomics Workshop, University of Illinois/NHGRI, Panel Member, September 2019
+      - title: The Future of AI: Ethical Questions and Human-Centered Design, Chicago Product Strategy and Design meetup, Panel Member, March 2019
+      - title: "<a href="https://venturebeat.com/2017/05/13/how-to-design-for-the-user-and-the-bot/" target="_blank">How to Design for the User and the Bot</a>," VentureBeat, May 2017
+      - title: "<a href="https://venturebeat.com/2017/01/30/ai-and-the-importance-of-trust-and-respect/" target="_blank">AI and the Importance of Trust and Respect</a>," VentureBeat, January 2017
+      - title: Jim Hayes Symposium panel member discussing the future of journalism, Cal Poly, October 2016
+      - title: Future of Design Panel, TechWeek Chicago, Panel Member, June 2016
+      - title: "<a href="https://www.youtube.com/watch?v=SllI6NIW3Qs" target="_blank">What UX Designers Need to Know About Artificial Intelligence</a>", UXD Chicago Talk, June 2016
 
 # footer:
 #     More details available via full CV <a href="/assets/images/AndrewPaley-CV.pdf" target="_blank">here</a>
