@@ -19,12 +19,8 @@
   {% for patent in patents.assignments %}
     <div class="item">
 
-      <span class="project-title">
-        {% if patent.link %}
-        <a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a>
-        {% else %}
+      <span>
         {{ patent.title }}
-        {% endif %}
       </span>
 
       {% if patent.tagline %}
