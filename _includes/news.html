@@ -10,7 +10,7 @@
     {% for article in news %}
 
       {% if article.link %}
-      <li><span class="datestamp" style="font-size:0.7em;">{{ article.date }} / {{ article.source }}</span><br /><em><a href="{{ article.link }}">{{ article.title }}</a></em></li>
+      <li><span class="datestamp" style="font-size:0.7em;">{{ article.date }} / {{ article.source }}</span><br /><em><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></em></li>
       {% else %}
       <li>{{ article.title }}</li>
       {% endif %}
