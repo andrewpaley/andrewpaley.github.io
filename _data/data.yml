@@ -29,8 +29,9 @@ sidebar:
     #     level: Native
 
     news:
-      - title: "September 1st, 2020: Musician Andrew Paley Creates AI Videos: \"Collaborating with a Machine Fit the Moment\" [RedHerring.com]"
+      - title: "Musician Andrew Paley Creates AI Videos: \"Collaborating with a Machine Fit the Moment\" [RedHerring.com]"
         link: https://www.redherring.com/north-america/musician-andrew-paley-creates-ai-videos-collaborating-with-a-machine-fit-the-moment/
+        date: "September 1st, 2020"
 
     cv: AndrewPaley-CV.pdf
 
