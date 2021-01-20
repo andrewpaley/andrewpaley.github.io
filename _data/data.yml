@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I'm a researcher, designer, engineer, journalist and musician interested in the intersection between AI, human-centered design, the reinvention of information access, and social progress as applied to a variety of spaces, including education, politics, law and healthcare. I also explore various approaches to human-machine collaboration in pursuit of generative art.
+      I'm a researcher, designer, engineer, journalist and musician working at the intersection of AI, human-centered design, the reinvention of information access, and social progress as applied to a variety of spaces, including education, politics, law and healthcare. I've built and led teams at fast-growing startups, designed and defined applied AI systems that resulted in over a dozen patents, and written and given talks about how to think about the future of AI-empowered UX. I also explore various approaches to human-machine collaboration in pursuit of generative art.
 
 education:
     - degree: PhD in Computer Science
@@ -52,20 +52,20 @@ education:
       details: |
         Currently a PhD Candidate in Prof. Kristian Hammond’s C3 Lab at Northwestern University, with a research focus on the reinvention of the human-data interface through the synthesis of various modes of machine learning and symbolic representation for natural language processing, intent-driven data analysis, rich conversational system design, and mixed-modality response generation. Research project work includes:
           - __Northwestern Open Access to Court Records Initiative__: Leading the design and development of the SCALES platform, a core component of an NSF-backed joint initiative involving computer and data scientists, legal scholars, journalists and policy experts aimed at building an "AI powered data platform that makes the details of the federal judiciary and insights into how it works available and accessible to every single person." More details here. The core platform itself is being architected such that it can be leveraged in other domains and incorporate a wide variety of datasets.
-          - __Mim__: Architecting and co-developing a rich conversational system aimed at question-answering by a process of question decomposition, sub-answer collection (culling candidate answers from a host of corpora, such as relevant APIs, open-source knowledge graphs, and encyclopedia articles) and evaluation, answer recombination (with relevant analysis), and response generation.
-          - __COVID Resource Map__: Led the initial design and development and now collaborating on the expansion of a set of data acquisition pipelines for the collection, collation, and aggregation of various datasets related to the COVID-19 pandemic, including PPE resource shortages and surpluses at a per-hospital level, hospital bed availability, reported cases, reported deaths, unemployment data, proxies for consumer behavior, and a variety of others. Currently, a subset of the aggregated data is available for exploration via an interactive map at covid-resource-map.com.
+          - __Mim__: Architecting a rich conversational system aimed at question-answering by a process of question decomposition, sub-answer collection (culling candidate answers from a host of corpora, such as relevant APIs, open-source knowledge graphs, and encyclopedia articles) and evaluation, answer recombination (with relevant analysis), and response generation.
+          - __COVID Resource Map__: Led the initial design and development and now collaborating on the expansion of a set of data acquisition pipelines for the collection, collation, and aggregation of various datasets related to the COVID-19 pandemic, including PPE resource shortages and surpluses at a per-hospital level, hospital bed availability, reported cases, reported deaths, unemployment data, proxies for consumer behavior, and a variety of others.
           - __The Advisor__: Co-developing a conversational agent aimed at meaningful interactions with students around internships, job opportunities, class selections, and events. The system develops a profile of each individual through their searches and selections, aiding with suggestions and guidance as new opportunities or classes become available or the system discovers near-perfect matches that meet most of the student’s interests and criteria.
           - __Pixie__: Designed and developed a platform for the exploration of the latent space of GANs, as well as the creation of "human directed" music visualizations culled from those explorations. Currently pursuing a roadmap of feature additions.
 
     - degree: Masters of Science in Journalism
       university: Medill, Northwestern University
-      time: 2009 - 2010
+      time: 2010
       details: |
         Earned an MSJ on a Knight Foundation scholarship aimed at bringing students with design and development skills and an interest or background in journalism to the Medill graduate program. While at Medill, graduate work included development of the American Visualizer, an app aimed at making census data accessible and useful to journalists through dynamic visualization; analysis of the media environment and impacts on the healthcare debate during 2009; and a FOIA-based research project associated with piecing together a timeline of events surrounding United 93 on 9/11.
 
     - degree: BA in Journalism and Media Studies
       university: St. Michael's College
-      time: 2002 - 2006
+      time: 2006
       details: |
         While earning a BA, designed, built and maintained the first online student publication and hosted a weekly radio show on the college station.
 
