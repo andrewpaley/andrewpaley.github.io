@@ -59,13 +59,13 @@ education:
 
     - degree: Masters of Science in Journalism
       university: Medill, Northwestern University
-      time: 2010
+      # time: 2010
       details: |
         Earned an MSJ on a Knight Foundation scholarship aimed at bringing students with design and development skills and an interest or background in journalism to the Medill graduate program. While at Medill, graduate work included development of the American Visualizer, an app aimed at making census data accessible and useful to journalists through dynamic visualization; analysis of the media environment and impacts on the healthcare debate during 2009; and a FOIA-based research project associated with piecing together a timeline of events surrounding United 93 on 9/11.
 
     - degree: BA in Journalism and Media Studies
       university: St. Michael's College
-      time: 2006
+      # time: 2006
       details: |
         While earning a BA, designed, built and maintained the first online student publication and hosted a weekly radio show on the college station.
 
