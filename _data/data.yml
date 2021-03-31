@@ -57,7 +57,13 @@ education:
           - __The Advisor__: Co-developing a conversational agent aimed at meaningful interactions with students around internships, job opportunities, class selections, and events. The system develops a profile of each individual through their searches and selections, aiding with suggestions and guidance as new opportunities or classes become available or the system discovers near-perfect matches that meet most of the student’s interests and criteria.
           - __Pixie__: Designed and developed a platform for the exploration of the latent space of GANs, as well as the creation of "human directed" music visualizations culled from those explorations. Currently pursuing a roadmap of feature additions.
 
-    - degree: Masters of Science in Journalism
+    - degree: MS in Computer Science
+      university: McCormick, Northwestern University
+      # time: 2010
+      details: |
+        Earned an MS in CS as a subcomponent of the PhD program.
+
+    - degree: MS in Journalism
       university: Medill, Northwestern University
       # time: 2010
       details: |
