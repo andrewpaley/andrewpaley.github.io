@@ -29,6 +29,9 @@ sidebar:
     #     level: Native
 
     news:
+      - title: "The paper _From Data to Information: Automating Data Science to explore the US Court System (Paley et al.)_ wins the Peter Jackson Award for Most Innovative Application Paper at the 2021 International Conference on AI and the Law"
+        source: "ICAIL 2021 Closing Ceremony"
+        link: https://www.youtube.com/watch?v=SKOnJb3kVug
       - title: "Human-Machine Collaboration Visualizes Music"
         source: "Northwestern McCormick School of Engineering Magazine Spring 2021"
         link: https://www.mccormick.northwestern.edu/magazine/spring-2021/human-machine-collaboration-visualizes-music/
@@ -141,6 +144,7 @@ patents:
 publications:
     title: Selected Publications/Presentations
     papers:
+      - title: Paley, A., Li Zhao, A., Pack, H., Servantez, S., Adler, R. F., Sterbentz, M., Pah, A., Schwartz, D., Barrie, C., Einarssan, A., and Hammond, K. (2021). _From Data to Information: Automating Data Science to Explore the U.S. Court System_. In The 18th International Conference of Artificial Intelligence and Law (ICAIL 2021). (Peter Jackson Award for Most Innovative Application Paper)
       - title: Innovation Leaders Panel, Merck Innovation Summit, Panel Member, October 2019
       - title: "Public Forum: Artificial Intelligence, Health & Society at the Equity, Diversity, & Data Science in Genomics Workshop, University of Illinois/NHGRI, Panel Member, September 2019"
       - title: "The Future of AI: Ethical Questions and Human-Centered Design, Chicago Product Strategy and Design meetup, Panel Member, March 2019"
