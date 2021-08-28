@@ -6,11 +6,13 @@
     Latest News
   </h2>
 
-  <ul class="list-unstyled interests-list">
+  <ul class="list-unstyled interests-list news-list">
     {% for article in news %}
 
       {% if article.link %}
-      <li><span class="datestamp" style="font-size:0.7em;">{{ article.date }} / {{ article.source }}</span><br /><em><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></em></li>
+      <li>
+        <p class="datestamp">{{ article.date }} <br /> {{ article.source }}</p>
+        <em><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></em></li>
       {% else %}
       <li>{{ article.title }}</li>
       {% endif %}

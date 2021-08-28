@@ -157,6 +157,23 @@ p {
             }
         }
     }
+
+    .news-list {
+        margin-bottom: 0;
+        li {
+            border-top: 0.25px solid rgba(0,0,0,0.2);
+            margin-bottom: 15px;
+            padding-top: 12px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.datestamp {
+  font-size: 0.7em;
+  margin-bottom: 5px;
 }
 
 .main-wrapper {
