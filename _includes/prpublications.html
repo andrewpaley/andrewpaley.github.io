@@ -1,0 +1,32 @@
+{% assign prpublications = site.data.data.prpublications %}
+{% if prpublications %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ prpublications.title }}
+  </h2>
+
+  {% if prpublications.intro %}
+  <div class="intro">
+    {{ prpublications.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in prpublications.papers %}
+  <div class="item">
+    {% if publication.link %}
+      <span><a href="{{ publication.link }}">{{ publication.title }}</a></span>
+    {% else %}
+      <span>{{ publication.title }}</span>
+    {% endif %}
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

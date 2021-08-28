@@ -29,6 +29,10 @@ sidebar:
     #     level: Native
 
     news:
+      - title: "Feature / Interview in the article series TGS Spotlight"
+        source: "The Graduate School @ Northwestern"
+        link: https://www.tgs.northwestern.edu/about/our-people/spotlight/andrew-paley.html
+        date: "August 2021"
       - title: "From Data to Information: Automating Data Science to explore the US Court System (Paley et al.) wins the Peter Jackson Award for Best Innovative Application Paper at the 2021 International Conference on AI and the Law"
         source: "International Association for AI and Law"
         link: http://www.iaail.org/?q=article/icail-2021-final-report-ai-and-law-conference-sao-paulo-brazil
@@ -142,10 +146,14 @@ patents:
       - title: Birnbaum, et al. ​Automatic generation of narratives from data using communication goals and narrative analytics. (Patent Set) U.S. Patent No. 9,977,773, May 22, 2018; U.S. Patent No. 9,720,899, August 1, 2017; U.S. Patent No. 9,697,492, July 4, 2017; U.S. Patent No. 10,755,042, August 25, 2020.
       - title: Hammond, et al. ​Automatic generation of narratives from data using communication goals and narrative analytics​. U.S. Patent No. 9,576,009. February 21, 2017.
 
-publications:
-    title: Selected Publications/Presentations
+prpublications:
+    title: Peer-Reviewed Publications
     papers:
       - title: Paley, A., Li Zhao, A., Pack, H., Servantez, S., Adler, R. F., Sterbentz, M., Pah, A., Schwartz, D., Barrie, C., Einarssan, A., and Hammond, K. (2021). <a href="https://dl.acm.org/doi/10.1145/3462757.3466100" target="_blank">From Data to Information&#58; Automating Data Science to Explore the U.S. Court System</a>. In The 18th International Conference of Artificial Intelligence and Law (ICAIL 2021). (Peter Jackson Award for Best Innovative Application Paper)
+
+publications:
+    title: Additional Publications/Presentations
+    papers:
       - title: Innovation Leaders Panel, Merck Innovation Summit, Panel Member, October 2019
       - title: "Public Forum: Artificial Intelligence, Health & Society at the Equity, Diversity, & Data Science in Genomics Workshop, University of Illinois/NHGRI, Panel Member, September 2019"
       - title: "The Future of AI: Ethical Questions and Human-Centered Design, Chicago Product Strategy and Design meetup, Panel Member, March 2019"
