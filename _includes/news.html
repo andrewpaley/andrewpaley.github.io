@@ -11,8 +11,8 @@
 
       {% if article.link %}
       <li>
-        <p class="datestamp">{{ article.date }} <br /> {{ article.source }}</p>
         <em><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></em></li>
+        <p class="datestamp">{{ article.source }} <br /> {{ article.date }}</p>
       {% else %}
       <li>{{ article.title }}</li>
       {% endif %}
