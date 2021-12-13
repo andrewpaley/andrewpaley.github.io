@@ -150,6 +150,7 @@ prpublications:
     title: Peer-Reviewed Publications
     papers:
       - title: Paley, A., Li Zhao, A., Pack, H., Servantez, S., Adler, R. F., Sterbentz, M., Pah, A., Schwartz, D., Barrie, C., Einarssan, A., and Hammond, K. (2021). <a href="https://dl.acm.org/doi/10.1145/3462757.3466100" target="_blank">From Data to Information&#58; Automating Data Science to Explore the U.S. Court System</a>. In The 18th International Conference of Artificial Intelligence and Law (ICAIL 2021). (Peter Jackson Award for Best Innovative Application Paper)
+      - title: Li Zhao, A., Paley, A., Adler, R. F., Pack, H., Servantez, S., Einarssan, A., Barrie, C., Sterbentz, M., and Hammond, K. (2021). <a href="https://arxiv.org/abs/2112.03119" target="_blank">Requirements for Open Political Information: Transparency Beyond Open Data</a>. AAAI FSS-21: Artificial Intelligence in Government and Public Sector.
 
 publications:
     title: Other Publications & Presentations
