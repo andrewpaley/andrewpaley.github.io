@@ -131,6 +131,17 @@ experiences:
       details: |
         Primary songwriter, lead vocalist, and producer for internationally touring band as well as a solo artist with multiple albums and collaborations. Played shows in 48 US States as well as roughly 30 countries to date, including Japan, Brazil, Russia, and much of Europe.
 
+prpublications:
+    title: Peer-Reviewed Publications
+    papers:
+      - title: Gilpin, L., Paley, A., Alam, M., Spurlock, S., and Hammond, K. (2022). <a href="https://arxiv.org/abs/2207.00007" target="_blank">"Explanation" is Not a Technical Term&#58; The Problem of Ambiguity in XAI</a>. Preprint.
+
+      - title: Adler, R., Paley, A., Li Zhao, A., Pack, H., Servantez, S., Pah, A., and Hammond, K. (2022). <a href="https://link.springer.com/article/10.1007/s10506-022-09320-z" target="_blank">A user-centered approach to developing an AI system analyzing U.S. federal court data</a>. Journal of Artificial Intelligence and Law.
+
+      - title: Paley, A., Li Zhao, A., Pack, H., Servantez, S., Adler, R. F., Sterbentz, M., Pah, A., Schwartz, D., Barrie, C., Einarssan, A., and Hammond, K. (2021). <a href="https://dl.acm.org/doi/10.1145/3462757.3466100" target="_blank">From Data to Information&#58; Automating Data Science to Explore the U.S. Court System</a>. In The 18th International Conference of Artificial Intelligence and Law (ICAIL 2021). (Peter Jackson Award for Best Innovative Application Paper)
+
+      - title: Li Zhao, A., Paley, A., Adler, R. F., Pack, H., Servantez, S., Einarssan, A., Barrie, C., Sterbentz, M., and Hammond, K. (2021). <a href="https://arxiv.org/abs/2112.03119" target="_blank">Requirements for Open Political Information&#58; Transparency Beyond Open Data</a>. AAAI FSS-21&#58; Artificial Intelligence in Government and Public Sector.
+
 patents:
     title: Patents
     assignments:
@@ -145,17 +156,6 @@ patents:
       - title: Paley, et al. Method and system for configuring automatic generation of narratives from data​. U.S. Patent No. 10,185,477. January 22, 2019.
       - title: Birnbaum, et al. ​Automatic generation of narratives from data using communication goals and narrative analytics. (Patent Set) U.S. Patent No. 9,977,773, May 22, 2018; U.S. Patent No. 9,720,899, August 1, 2017; U.S. Patent No. 9,697,492, July 4, 2017; U.S. Patent No. 10,755,042, August 25, 2020.
       - title: Hammond, et al. ​Automatic generation of narratives from data using communication goals and narrative analytics​. U.S. Patent No. 9,576,009. February 21, 2017.
-
-prpublications:
-    title: Peer-Reviewed Publications
-    papers:
-      - title: Gilpin, L., Paley, A., Alam, M., Spurlock, S., and Hammond, K. (2022). <a href="https://arxiv.org/abs/2207.00007" target="_blank">"Explanation" is Not a Technical Term&#58; The Problem of Ambiguity in XAI</a>. Preprint.
-
-      - title: Adler, R., Paley, A., Li Zhao, A., Pack, H., Servantez, S., Pah, A., and Hammond, K. (2022). <a href="https://link.springer.com/article/10.1007/s10506-022-09320-z" target="_blank">A user-centered approach to developing an AI system analyzing U.S. federal court data</a>. Journal of Artificial Intelligence and Law.
-
-      - title: Paley, A., Li Zhao, A., Pack, H., Servantez, S., Adler, R. F., Sterbentz, M., Pah, A., Schwartz, D., Barrie, C., Einarssan, A., and Hammond, K. (2021). <a href="https://dl.acm.org/doi/10.1145/3462757.3466100" target="_blank">From Data to Information&#58; Automating Data Science to Explore the U.S. Court System</a>. In The 18th International Conference of Artificial Intelligence and Law (ICAIL 2021). (Peter Jackson Award for Best Innovative Application Paper)
-
-      - title: Li Zhao, A., Paley, A., Adler, R. F., Pack, H., Servantez, S., Einarssan, A., Barrie, C., Sterbentz, M., and Hammond, K. (2021). <a href="https://arxiv.org/abs/2112.03119" target="_blank">Requirements for Open Political Information&#58; Transparency Beyond Open Data</a>. AAAI FSS-21&#58; Artificial Intelligence in Government and Public Sector.
 
 publications:
     title: Other Publications & Presentations
