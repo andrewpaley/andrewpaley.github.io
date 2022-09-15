@@ -134,6 +134,8 @@ experiences:
 prpublications:
     title: Peer-Reviewed Publications
     papers:
+      - title: Li Zhao, A., Paley, A., Adler, R. F., and Hammond, K. (2022). <a href="https://dl.acm.org/doi/10.1145/3543434.3543591" target="_blank">OpenIllinois: An Information System for Transparency in Illinois State Electoral Finances</a>. The 23rd Annual International Conference on Digital Government Research (DG.O 2022).
+
       - title: Gilpin, L., Paley, A., Alam, M., Spurlock, S., and Hammond, K. (2022). <a href="https://arxiv.org/abs/2207.00007" target="_blank">"Explanation" is Not a Technical Term&#58; The Problem of Ambiguity in XAI</a>. Preprint.
 
       - title: Adler, R., Paley, A., Li Zhao, A., Pack, H., Servantez, S., Pah, A., and Hammond, K. (2022). <a href="https://link.springer.com/article/10.1007/s10506-022-09320-z" target="_blank">A user-centered approach to developing an AI system analyzing U.S. federal court data</a>. Journal of Artificial Intelligence and Law.
