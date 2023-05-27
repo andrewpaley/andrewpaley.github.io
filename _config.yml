@@ -4,7 +4,7 @@
 title: Andrew Paley / CV
 url: 'http://www.andrewpaley.dev'
 baseurl: '/' #change it according to your repository namea
-description: Andrew Paley is a co-founder and Chief Science & Technology Officer at Storyline
+description: Andrew Paley is Cofounder and Chief Science & Technology Officer at Storyline
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
