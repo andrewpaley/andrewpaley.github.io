@@ -29,6 +29,14 @@ sidebar:
     #     level: Native
 
     news:
+      - title: "15 Questions: Andrew Paley about AI and Music"
+        source: "15Questions.net"
+        link: https://15questions.net/interview/andrew-paley-about-ai-and-music/page-1/
+        date: "October 2023"
+      - title: "Interview with Beat Magazine about Music and Generative AI"
+        source: "Beat.DE (Print Edition Only)"
+        link: https://www.discountmags.com/magazine/beat-english-august-21-2023-digital/in-this-issue/26
+        date: "October 2023"
       - title: "Feature / Interview in the article series TGS Spotlight"
         source: "The Graduate School @ Northwestern"
         link: https://www.tgs.northwestern.edu/about/our-people/spotlight/andrew-paley.html
@@ -55,10 +63,10 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I'm an entrepreneur, engineer, designer, journalist and musician with a history of working and doing research at the intersection of AI, human-centered design, the reinvention of information access, and social progress as applied to a variety of spaces, including education, politics, law and healthcare. I've built and led teams at fast-growing startups, designed and defined applied AI systems that resulted in over 20 patents at a company now acquired by Salesforce, and written and given talks about how to think about the future of AI-empowered UX. I also sometimes dabble in various approaches to human-machine collaboration in pursuit of generative art.
+      I'm an entrepreneur, engineer, designer, journalist and musician with a history of working and doing research at the intersection of AI, human-centered design, the reinvention of information access, and social progress as applied to a variety of spaces, including law, politics, and education. I've built and led teams at fast-growing startups, designed and defined applied AI systems that resulted in 25 patents at a company now acquired by Salesforce, and written and given talks about how to think about the future of AI-empowered UX. I also sometimes dabble in various approaches to human-machine collaboration in pursuit of generative art.
 
 experiences:
-    - role: Co-founder / Chief Science & Technology Officer
+    - role: Cofounder / Chief Science & Technology Officer
       time: 2022 - present
       company: Storyline
       details: |
